@@ -12,6 +12,8 @@
 1. Create new database called "gym"
 2. run --> php artisan migrate --seed
 
+The seeder will automatically add two trainers to the database
+
 ## How it works
 
 - Register to the app
