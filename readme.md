@@ -19,7 +19,9 @@
 - Click on "Start new program" to choose program name, level, trainer and start date.
 - You can cancel the program as soon as you create it but it can only be paused after it starts.
 - You can only pause, cancel or continue the program on the first day of the week (Sunday)
-- You can change the level or the trainer at any time unless the program is cancele or finished
+- You can change the level or the trainer at any time unless the program is canceled or finished
+- You can only start a new program after you cancel the existing one or after it finishes
+- There is a refresh button on the program. If you pause the program and continue after two weeks, the two weeks are added to the end date. If they are not added automatically, you can refresh the program and the date will change.
 
 ## Timetravel
 
